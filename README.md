@@ -11,7 +11,12 @@ Here some tools I use:
 
 Here something about me:
 
-[![Scholar](https://img.shields.io/badge/List%20of%20Publication-Google%20Scholar-yellow)](https://scholar.google.it/citations?user=ID_rfS4AAAAJ&hl=it). 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cozzuto/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucacozzuto)
+[![Scholar](https://img.shields.io/badge/List%20of%20Publication-Google%20Scholar-yellow)](https://scholar.google.it/citations?user=ID_rfS4AAAAJ&hl=it) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cozzuto/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/lucacozzuto)
 
+Here some project I developed / contributed:
+
+[![Master of Pores](https://img.shields.io/badge/Nanopore%20pipeline-Master%20Of%20Pores-black)](https://github.com/biocorecrg/master_of_pores)
+[![ExOrthist](https://img.shields.io/badge/Infer%20exon%20orthology%20groups-ExHortist-yellow)](https://github.com/biocorecrg/ExOrthist)
+[![Allele Specific RNASeq](https://img.shields.io/badge/Pipeline-Allele%20Specific%20RNAseq-red)](https://github.com/biocorecrg/allele_specific_RNAseq)
