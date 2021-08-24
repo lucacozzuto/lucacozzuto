@@ -18,5 +18,12 @@ Here something about me:
 Here some project I developed / contributed:
 
 [![Master of Pores](https://img.shields.io/badge/Nanopore%20pipeline-Master%20Of%20Pores-black)](https://github.com/biocorecrg/master_of_pores)
+
+
 [![ExOrthist](https://img.shields.io/badge/Infer%20exon%20orthology%20groups-ExHortist-yellow)](https://github.com/biocorecrg/ExOrthist)
+
+
 [![Allele Specific RNASeq](https://img.shields.io/badge/Pipeline-Allele%20Specific%20RNAseq-red)](https://github.com/biocorecrg/allele_specific_RNAseq)
+
+
+[![BioNextflow](https://img.shields.io/badge/Library-BioNextflow-brightgreen)](https://github.com/biocorecrg/BioNextflow)
