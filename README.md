@@ -1,6 +1,9 @@
 ### Luca Cozzuto
 
-My name is Luca Cozzuto, I am a Bioinformatician at CRG's Bioinformatics Core in Barcelona. I enjoy helping scientists and bioinformaticians trying to simplify their life using workflows and enhancing reproducibility with Linux containers. 
+<img src="pic.jpeg" width="128"/> 
+
+
+Hello! My name is Luca Cozzuto, I am a Bioinformatician at CRG's Bioinformatics Core in Barcelona. I enjoy helping scientists and bioinformaticians trying to simplify their life using workflows and enhancing reproducibility with Linux containers. 
 
 Here some tools / languages I use:
 
