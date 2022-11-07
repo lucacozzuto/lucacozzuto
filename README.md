@@ -12,7 +12,6 @@ Here some tools / languages I use:
 [![Python](https://img.shields.io/badge/code-Python-yellow)](https://www.python.org/)
 
 
-
 Here something about me:
 
 [![Scholar](https://img.shields.io/badge/List%20of%20Publication-Google%20Scholar-yellow)](https://scholar.google.it/citations?user=ID_rfS4AAAAJ&hl=it) 
@@ -25,3 +24,5 @@ Here some project I developed / contributed:
 [![ExOrthist](https://img.shields.io/badge/Infer%20exon%20orthology%20groups-ExHortist-yellow)](https://github.com/biocorecrg/ExOrthist)
 [![Allele Specific RNASeq](https://img.shields.io/badge/Pipeline-Allele%20Specific%20RNAseq-red)](https://github.com/biocorecrg/allele_specific_RNAseq)
 [![BioNextflow](https://img.shields.io/badge/Library-BioNextflow-brightgreen)](https://github.com/biocorecrg/BioNextflow)
+
+Here my Mastodon ID: <a rel="me" href="https://genomic.social/@lucacozzuto">Mastodon</a>
