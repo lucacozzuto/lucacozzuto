@@ -25,4 +25,5 @@ Here some project I developed / contributed:
 [![Allele Specific RNASeq](https://img.shields.io/badge/Pipeline-Allele%20Specific%20RNAseq-red)](https://github.com/biocorecrg/allele_specific_RNAseq)
 [![BioNextflow](https://img.shields.io/badge/Library-BioNextflow-brightgreen)](https://github.com/biocorecrg/BioNextflow)
 
-Here my Mastodon ID: <a rel="me" href="https://genomic.social/@lucacozzuto">Mastodon</a>
+Here my Mastodon ID: <a href="https://genomic.social/@lucacozzuto" rel="me" >Mastodon</a>
+
