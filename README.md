@@ -17,7 +17,7 @@ Here something about me:
 [![Scholar](https://img.shields.io/badge/List%20of%20Publication-Google%20Scholar-yellow)](https://scholar.google.it/citations?user=ID_rfS4AAAAJ&hl=it) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cozzuto/)
 [![Twitter](https://img.shields.io/badge/X(Twitter)-000000?logo=twitter&logoColor=white)](https://twitter.com/lucacozzuto)
-[![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/lucacozzuto.bsky.social)
+[![BlueSky](https://img.shields.io/badge/Bluesky-1DA1F2?logo=Bluesky&logoColor=white)](https://bsky.app/profile/lucacozzuto.bsky.social)
 
 Here some project I developed / contributed:
 
